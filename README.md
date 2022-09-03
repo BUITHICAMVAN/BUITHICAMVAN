@@ -28,8 +28,8 @@
 <h2 align="center" style="font-size: 30px">💫 About Me 💫</h2>
 <div class="introduce">
 📑 I'm currently learning at International University - Vietnam National HCMC</br>
-🌱 I have specific knowledge of C, C++, and Java languages</br>
-🔥 I hope to work for a reputable company</br>
+🌱 I have specific knowledge of Java, Javascript knowledge</br>
+🔥 I love to work in an environment where I am feeling belong and devoted to.</br>
 ⚡Ask me all your questions, I will reply as soon as I receive the message</br>
 😄 Fun fact: I am an optimist during the day but have quite negative thoughts at night
 </div>
