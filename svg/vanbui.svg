@@ -79,7 +79,8 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting" style="font-size: 70px">
-          Hi People,<br/>I'm Van Bui aka Chloe B 
+          Hi People,<br/>I'm Van Bui aka <br/>
+          Chloe B 
         </div>
         <div class="skills">
           <div class="skills_icon">
