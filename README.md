@@ -1,6 +1,6 @@
-<!-- Cong Bang -->
+<!-- Van Bui -->
 <a href="#" target="_blank">
-  <img src="svg/congbang.svg" width="1200" alt="congbang-official" />
+  <img src="svg/vanbui.svg" width="1200" alt="vanbui-official" />
 </a>
 </br>
 </br>
@@ -82,7 +82,6 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 
-
 <!-- ------------------------------------------------------------------------------------------------- -->
 </br>
 </br>
@@ -97,14 +96,12 @@
 </br>
 <h2 align="center" style="font-size: 30px">📊 GitHub Statistics 📊</h2></
 
-
-[![](https://visitcount.itsvg.in/api?id=congbangitiu&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BUITHICAMVAN&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=congbangitiu&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/> </br>
-  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=congbangitiu&theme=onedark&hide_border=false"/> </br>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congbangitiu&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=BUITHICAMVAN&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/> </br>
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=BUITHICAMVAN&theme=onedark&hide_border=false"/> </br>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUITHICAMVAN&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 </p>
 <!-- ____________________________________________________________________________________________________________________________ -->
@@ -115,20 +112,20 @@
 <br>
 
 <div align="center">
-  <a href="https://www.facebook.com/congbang.nguyenluan" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="congbang-facebook" />
+  <a href="https://www.facebook.com/profile.php?id=100085262943407" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="vanbui-facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UC6Dgk42iP8aHcsLShgRkPJg" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="congbang-youtube" />
+  <a href="https://www.youtube.com/channel/UCDGAdDyFA2_6kMDKI-q8oQw" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="vanbui-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/c%C3%B4ng-b%E1%BA%B1ng-mr-fair-78121622a/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="congbang-linkedin" />
+  <a href="https://www.linkedin.com/in/v%C3%A2n-b%C3%B9i-501022186/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="vanbui-linkedin" />
   </a>
-  <a href="https://www.instagram.com/_mr.fair_/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="congbang-instagram" />
+  <a href="https://www.instagram.com/ig.vbui/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="vanbui-instagram" />
   </a>
-  <a href="mailto:bangnguyen.071102@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="congbang-email" />
+  <a href="mailto:buicamvan.work@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="vanbui-email" />
   </a>
 </div>
 
@@ -138,7 +135,7 @@
 <h2 align="center" style="font-size: 30px">📑 Quote 📑</h2>
 </br>
 <a href="#" target="_blank">
-  <img class="quote" src="svg/congbang-quotes.svg" width="846" height="150" alt="congbang-official" />
+  <img class="quote" src="svg/vanbui-quotes.svg" width="846" height="150" alt="vanbui-official" />
 </a>
 <!-- <style>
   .quote {
