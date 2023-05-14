@@ -27,11 +27,9 @@
 </style> -->
 <h2 align="center" style="font-size: 30px">💫 About Me 💫</h2>
 <div class="introduce">
-📑 I'm currently learning at International University - Vietnam National HCMC</br>
-🌱 I have specific knowledge of Java, Javascript knowledge</br>
-🔥 I love to work in an environment where I am feeling belong and devoted to.</br>
-⚡Ask me all your questions, I will reply as soon as I receive the message</br>
-😄 Fun fact: I am an optimist during the day but have quite negative thoughts at night
+📑 I'm currently a 3rd year student at International University - Vietnam National HCMC</br>
+🌱 I have specific knowledge of Java, Javascript</br>
+🔥 I love to work in an environment where I feel belonged and believed to.</br>
 </div>
 </div>
 
@@ -41,27 +39,9 @@
 <h2 align="center" style="font-size: 30px">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/Java-282C34?style=flat&logo=java&logoColor=white" alt="Java" title="Java" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -69,15 +49,33 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white
+" alt="JSP" title="JSP" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Java_Servlet-007396?style=flat&logo=java&logoColor=white" alt="Java Servlet" title="Java Servlet" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
+" alt="MySQL" title="MySQL" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
+<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white
+" alt="Figma" title="Figma" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github" title="github" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL Workbench" title="MySQL Workbench" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" title="NetBeans" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white
+" alt="IntellJ" title="IntellJ" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
@@ -88,7 +86,7 @@
 </br>
 <h2 align="center" style="font-size: 30px">💻 Tech Stack 💻</h2></br>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 </br>
 
 <!-- ------------------------------------------------------------------------------------------------- -->
@@ -115,14 +113,8 @@
   <a href="https://www.facebook.com/profile.php?id=100085262943407" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="vanbui-facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UCDGAdDyFA2_6kMDKI-q8oQw" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="vanbui-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/v%C3%A2n-b%C3%B9i-501022186/" target="blank">
+  <a href="https://www.linkedin.com/in/bui-thi-cam-van/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="vanbui-linkedin" />
-  </a>
-  <a href="https://www.instagram.com/ig.vbui/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="vanbui-instagram" />
   </a>
   <a href="mailto:buicamvan.work@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="vanbui-email" />
